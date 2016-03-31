@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/01/2016, 10:32:41 PM
+    Author     : Andrew
+*/
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+
+.button{
+    width: 300px;
+    height: auto;
+    margin: 5%;
+    border-radius: 10px;
+    background-color: #228b22;
+    box-shadow: 0px 3px 0px 0px #0e380e;
+}
+.button:hover{
+    background-color: #145314;
+}
+.button:active{
+    box-shadow: 0px 1px 0px 0px #3293ba;
+}
+
+
+.heading{
+    width: 100%;
+    border-bottom: #555 groove medium; 
+}
+#sidebar{
+    width: 175px;
+    border-right: #555 groove medium;
+}
+
+.addItem{
+    background-color: #44D;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 2%;
+    
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
+.addItem div{
+    margin: 2%;
+    padding: 2%;
+}
+
+input{
+    background-color: #EEE;   
+    font-size: 1.5em;
+}
+
+.shopping_lists td{
+    width:25%;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding-left: 5%;
+    vertical-align: text-top;
+}
+.shopping_lists{
+    width: 100%;
+
+}

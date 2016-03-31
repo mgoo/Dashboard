@@ -1,0 +1,161 @@
+
+.large-button {
+	width: 118px;	
+	margin-top: 10px;
+	margin-left: 0px;
+	margin-right: 10px;
+	padding: 14px 15px;
+	font-size: 14px;
+	line-height: 100%;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+	color: #fff;
+	display:inline-block;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	font-weight: bold;
+	transition: background 0.1s ease-in-out;
+	-webkit-transition: background 0.1s ease-in-out;
+	-moz-transition: background 0.1s ease-in-out;
+	-ms-transition: background 0.1s ease-in-out;
+	-o-transition: background 0.1s ease-in-out;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	color: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.large-button:active {
+	padding-top: 15px;
+        margin-bottom: -1px;
+}
+.large-button, .large-button:hover, .large-button:active {
+	outline: 0 none;
+	text-decoration: none;
+	color: #fff;
+}
+
+.find-button {
+	width: 45px;	
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 8px 8px;
+	font-size: 12px;
+	line-height: 100%;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+	color: #fff;
+	display:inline-block;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	font-weight: bold;
+	transition: background 0.1s ease-in-out;
+	-webkit-transition: background 0.1s ease-in-out;
+	-moz-transition: background 0.1s ease-in-out;
+	-ms-transition: background 0.1s ease-in-out;
+	-o-transition: background 0.1s ease-in-out;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	color: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.find-button, .actions:hover, .actions:active {
+	outline: 0 none;
+	text-decoration: none;
+	color: #fff;
+}
+       		        
+.filelink-button {
+	width: 40px;	
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 4px 4px;
+	font-size: 12px;
+	line-height: 100%;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+	color: #fff;
+	display:inline-block;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	font-weight: bold;
+	transition: background 0.1s ease-in-out;
+	-webkit-transition: background 0.1s ease-in-out;
+	-moz-transition: background 0.1s ease-in-out;
+	-ms-transition: background 0.1s ease-in-out;
+	-o-transition: background 0.1s ease-in-out;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	color: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.filelink-button, .filelink-button:hover, .filelink-button:active {
+	outline: 0 none;
+	text-decoration: none;
+	color: #fff;
+}
+
+.green-button {
+	background-color: #228b22;
+	box-shadow: 0px 3px 0px 0px #0e380e;
+}
+.green-button:hover {
+	background-color: #145314;
+}
+.green-button:active {
+	box-shadow: 0px 1px 0px 0px #3293ba;
+}
+
+.red-button {
+	background-color: #b22222;
+	box-shadow: 0px 3px 0px 0px #470e0e;
+}
+.red-button:hover {
+	background-color: #7d1818;
+}
+.red-button:active {
+	box-shadow: 0px 1px 0px 0px #cd1313;
+}
+
+.pink-button {
+	background-color: #ff6a80;
+	box-shadow: 0px 3px 0px 0px #da0020;
+}
+.pink-button:hover {
+	background-color: #ff566f;
+}
+.pink-button:active {
+	box-shadow: 0px 1px 0px 0px #da0020;
+}
+
+.orange-button {
+	background-color: #e69400;
+	box-shadow: 0px 3px 0px 0px #4c3200;
+}
+.orange-button:hover {
+	background-color: #b27300;
+}
+.orange-button:active {
+	box-shadow: 0px 1px 0px 0px #4c3200;
+}
+
+.purple-button {
+	background-color: #7a28a3;
+	box-shadow: 0px 3px 0px 0px #1f0a29;
+}
+.purple-button:hover {
+	background-color: #4c1966;
+}
+.purple-button:active {
+	box-shadow: 0px 1px 0px 0px #1f0a29;
+}

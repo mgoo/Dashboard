@@ -1,0 +1,21 @@
+table *{
+    border: black thin solid;
+}
+table * td:first-child{
+    border: none;
+}
+.currentDay{
+    border: green groove medium;
+}
+.roster{
+    width: 450px;
+}
+.roster * td{
+    width: 150px;
+    height: 50px;
+}
+.currentPerson{
+    background-color: tomato;
+}
+
+

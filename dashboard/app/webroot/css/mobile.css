@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/02/2016, 11:53:11 AM
+    Author     : Andrew
+*/
+
+a, p, span, button, .roster * td{
+    font-size: 2.5em;
+}
+h1{
+    font-size: 3em;   
+}
+h2{
+    font-size: 3em;
+}
+#sidebar{
+    width: 70%;
+}
+#topbar{
+    height: 15%;
+    font-size: 3em;
+    padding-bottom: 20px;
+}
+.editUser{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}

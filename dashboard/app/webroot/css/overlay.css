@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/02/2016, 3:40:47 PM
+    Author     : Andrew
+*/
+
+.overlay_backing{
+    z-index: 1;
+    display: none;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0px;
+    top:0px;    
+}
+
+.overlay{
+    z-index: 5;
+    position: fixed;
+    width: 30%;
+    height: 35%;
+    left: 35%;
+    top: 15%;
+    padding: 2%;
+    
+    background-color: #44D;
+    border-radius: 10px;
+    
+}
+.overlay * input{
+    margin: 1%;
+}
+
+.overlay_close_button{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    left: 90%;
+    top: calc(10% - 50px);  
+}
